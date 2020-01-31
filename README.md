@@ -2,7 +2,7 @@
 
 ## 1-) Image Rotation
 
-* The program includes inline assembly code in C++ .
+* The program includes 32-bit inline assembly code in C++ .
 * It allows you to rotate the gray scale image left and right.
 
 
